@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <ApplicationIcon>PaymentCardAppIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Images\cart.png" />
+    <None Remove="Assets\Images\cash.png" />
+    <None Remove="Assets\Images\info.png" />
+    <None Remove="Assets\Images\PaymentCardAppIcon.png" />
+    <None Remove="Assets\Images\PaymentCardAppLogo.png" />
+    <None Remove="Assets\Images\RefillUserIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="PaymentCardAppIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\Images\cart.png" />
+    <EmbeddedResource Include="Assets\Images\cash.png" />
+    <EmbeddedResource Include="Assets\Images\info.png" />
+    <EmbeddedResource Include="Assets\Images\PaymentCardAppIcon.png" />
+    <EmbeddedResource Include="Assets\Images\PaymentCardAppLogo.png" />
+    <EmbeddedResource Include="Assets\Images\RefillUserIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.1.12" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageReference Include="ZXing.Net.Mobile" Version="3.1.0-beta2" />
+    <PackageReference Include="ZXing.Net.Mobile.Forms" Version="3.1.0-beta2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Bartender.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Refill.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

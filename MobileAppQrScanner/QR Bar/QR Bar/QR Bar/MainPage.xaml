@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:helpers="clr-namespace:QR_Bar.Helpers"
+             x:Class="QR_Bar.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout">
+            <StackLayout.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#2196f3" Offset="0.1"/>
+                    <GradientStop Color="#1b1e7b" Offset="1.0"/>
+                </LinearGradientBrush>
+            </StackLayout.Background>
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="logoIcon" Source="{helpers:ImageResource QR_Bar.Assets.Images.PaymentCardAppLogo.png}" Margin="0, -40, 0, 0"/>
+            </StackLayout>
+
+            <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand">
+                <StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40, 10, 40, 10</OnIdiom.Phone>
+                    </OnIdiom>
+                </StackLayout.Padding>
+
+                <ActivityIndicator x:Name="activitySpinner" Color="White" IsRunning="True"/>
+
+
+                <Entry x:Name="entry_username" Placeholder="Username" TextColor="White" PlaceholderColor="White" ClearButtonVisibility="WhileEditing"/>
+                <Entry x:Name="entry_password" Placeholder="Password" TextColor="White" PlaceholderColor="White" IsPassword="True" ClearButtonVisibility="WhileEditing"/>
+
+                <Button x:Name="button_signin" Text="Sign In" CornerRadius="10" Clicked="SingInProcedure" BackgroundColor="White" TextColor="Black"/>
+
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

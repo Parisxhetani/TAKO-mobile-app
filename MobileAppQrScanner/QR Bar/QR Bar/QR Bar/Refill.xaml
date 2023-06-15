@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:helpers="clr-namespace:QR_Bar.Helpers"
+             x:Class="QR_Bar.Refill">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Cash_Out" Order="Secondary" Icon="{helpers:ImageResource QR_Bar.Assets.Images.cash.png}" Text="Cash Out" Priority="0" Clicked="Cash_Out_Clicked"/>
+        <ToolbarItem Name="Info" Order="Primary" Icon="{helpers:ImageResource QR_Bar.Assets.Images.info.png}" Text="Info" Priority="1" Clicked="Info_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Ark" TextColor="White" FontSize="Medium"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>40, 10, 40, 10</OnIdiom.Phone>
+                </OnIdiom>
+            </StackLayout.Padding>            
+
+            <StackLayout VerticalOptions="CenterAndExpand">                
+                <ActivityIndicator x:Name="activity_Waitting_Spinner" Color="White" IsRunning="True"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Add Credits: " FontSize="Medium" TextColor="Black" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+                    <Entry x:Name="credits_entry" Placeholder="0"  Keyboard="Numeric" PlaceholderColor="Black" TextColor="Black" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+                <Button x:Name="scan_button" Text="Scan" Clicked="scan_button_Clicked" CornerRadius="10" BackgroundColor="#2196f3" TextColor="White"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

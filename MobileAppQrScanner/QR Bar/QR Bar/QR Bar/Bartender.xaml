@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:helpers="clr-namespace:QR_Bar.Helpers"
+             x:Class="QR_Bar.Bartender">
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Bar" TextColor="White" FontSize="Medium"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.Padding>
+                <OnIdiom x:TypeArguments="Thickness">
+                    <OnIdiom.Phone>40, 10, 40, 10</OnIdiom.Phone>
+                </OnIdiom>
+            </StackLayout.Padding>
+
+            <StackLayout VerticalOptions="Start">
+                <Label Text="Choose Products" HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold" TextColor="Black"/>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="CenterAndExpand">
+                <ListView x:Name="products_listView" HasUnevenRows="True" VerticalOptions="FillAndExpand" ItemTapped="products_listView_ItemTapped" IsPullToRefreshEnabled="True" Refreshing="products_listView_Refreshing">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" Padding="0,10,0,10">
+                                    <Frame HeightRequest="40" WidthRequest="40" CornerRadius="20" HorizontalOptions="Start" VerticalOptions="Start" Margin="0" Padding="0" BackgroundColor="#2196f3">
+                                        <Label Text="{Binding ID}" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontAttributes="Bold"/>
+                                    </Frame>
+                                    <StackLayout Spacing="0" HorizontalOptions="StartAndExpand">
+                                        <Label Text="{Binding Name}" FontSize="Medium" TextColor="Black" FontAttributes="Bold"/>
+                                        <Label Text="{Binding Price}" />
+                                    </StackLayout>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Image Source="{helpers:ImageResource QR_Bar.Assets.Images.cart.png}"/>
+                                        <Label Text="{Binding Quantity}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="End">
+                <StackLayout Orientation="Horizontal" >
+                    <Label Text="Totali: " FontSize="Medium"/>
+                    <Label Text="0" x:Name="total_label" FontSize="Medium"/>
+                    <Label Text="ALL" FontSize="Medium"/>
+                </StackLayout>
+                <Button x:Name="scan_button" Text="Scan" Clicked="scan_button_Clicked" CornerRadius="10" BackgroundColor="#2196f3" TextColor="White"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,69 @@
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\QR Bar.iOS.exe
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\MySqlConnector.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\System.Diagnostics.DiagnosticSource.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Essentials.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Core.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Platform.iOS.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\Xamarin.Forms.Xaml.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\zxing.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ZXingNetMobile.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ZXingNetMobile.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ZXing.Net.Mobile.Forms.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\ZXing.Net.Mobile.Forms.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\QR Bar.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\bin\iPhoneSimulator\Release\QR Bar.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\actool\_ProcessedImageAssetsPath.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\coremlc\_ProcessedCoreMLModelsPath.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\_ProcessedBundleResourcesPath.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\_ProcessedContentPath.items
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\optimized\
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\QR Bar.iOS.csproj.AssemblyReference.cache
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\QR Bar.iOS.csproj.CoreCompileInputs.cache
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\QR Bar.iOS.csproj.CopyComplete
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar.iOS\obj\iPhoneSimulator\Release\QR Bar.iOS.exe

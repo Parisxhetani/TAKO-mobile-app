@@ -1,0 +1,17 @@
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\bin\Release\netstandard2.0\QR Bar.deps.json
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\bin\Release\netstandard2.0\QR Bar.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\bin\Release\netstandard2.0\QR Bar.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.csproj.AssemblyReference.cache
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\Bartender.xaml.g.cs
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\Refill.xaml.g.cs
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.AssemblyInfoInputs.cache
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.AssemblyInfo.cs
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.csproj.CoreCompileInputs.cache
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\XamlC.stamp
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\refint\QR Bar.dll
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\QR Bar.pdb
+E:\Projekte\QR Bar\QR Bar\QR Bar\QR Bar\obj\Release\netstandard2.0\ref\QR Bar.dll
